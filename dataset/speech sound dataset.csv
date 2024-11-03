@@ -1,0 +1,16 @@
+S.no,Audio,File path,Start segment ,End segment ,hertz,decibles,Sample Frequency
+1,source1.wav,Click here!!,0,0.5,1895.36 Hz,0.35 dB,8000 Hz
+2,source2.wav,Click here!!,0.1,0.3,134.56 Hz,0.49 dB,8000 Hz
+3,source3.wav,Click here!!,0.1,0.6,34.88 Hz,0.07 dB,8000 Hz
+4,source4.wav,Click here!!,0,0.4,166.88 Hz,2.41 dB,8000 Hz
+5,source5.wav,Click here!!,0,0.4,97.44 Hz,0.63 dB,8000 Hz
+6,source6.wav,Click here!!,0.1,0.5,78.56 Hz,2.68 dB,8000 Hz
+7,source7.wav,Click here!!,0,0.5,164.80 Hz,0.63 dB,8000 Hz
+8,source8.wav,Click here!!,0.2,0.5,49.76 Hz,0.00 dB,8000 Hz
+9,source9.wav,Click here!!,0.1,0.5,54.72 Hz,0.00 dB,8000 Hz
+10,source10.wav,Click here!!,0.1,1.27,492.91 Hz,10.15 dB,44100 Hz
+11,source11.wav,Click here!!,0.1,0.32,256.01 Hz,14.37 dB,44100 Hz
+12,source12.wav,Click here!!,0,0.8,315.42 Hz,11.72 dB,44100 Hz
+13,source13.wav,Click here!!,0,1.12,724.01 Hz,3.58 dB,44100 Hz
+14,source14.wav,Click here!!,0.1,1.05,149.96 Hz,0.76 dB,44100 Hz
+15,source15.wav,Click here!!,0.4,0.26,264.10 Hz,7.89 dB,44100 Hz
